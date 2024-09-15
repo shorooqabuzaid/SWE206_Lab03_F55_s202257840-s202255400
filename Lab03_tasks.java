@@ -8,5 +8,6 @@ public class Lab03{
     // does it appear to you?
     System.out.println("Changes is done");
     System.out.println("done");
+    // the final changes
   }
 }
