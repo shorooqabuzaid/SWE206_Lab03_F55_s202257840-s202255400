@@ -4,5 +4,7 @@ public class Lab03{
     for(int i = 0; i < 10; i++){
       System.out.print("0")
     }
+    // I'm trying to make new changes
+    // does it appear to you?
   }
 }
