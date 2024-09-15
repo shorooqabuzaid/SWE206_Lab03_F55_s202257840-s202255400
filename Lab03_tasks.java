@@ -6,5 +6,6 @@ public class Lab03{
     }
     // I'm trying to make new changes
     // does it appear to you?
+    System.out.println("Changes is done");
   }
 }
